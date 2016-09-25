@@ -1,4 +1,6 @@
 # RowdyRunner
+
+## About
 RowdyRunner is a Java-based program that takes the best elements of a classic top-down video game and mixes it with a fresh set of modern graphics. Join Rowdy, the fastest roadrunner on the planet, as he runs, dodges, and flies through some of the world's most toughest obstacles and levels! We hope you enjoy our take on a classic video game.
 
 ## Specifications
