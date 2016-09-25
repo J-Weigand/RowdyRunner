@@ -6,10 +6,10 @@ RowdyRunner is a Java-based program that takes the best elements of a classic to
 
 ## Contributors 
 Joshua Weigand - Programming, Debugging, Graphic Design<br/>
-Wellington Rodrigues - Programming, Debugging<br/>
-Quaid Quintela - Programming, Debugging<br/>
-Daniel Molano - Programming, Debugging<br/>
-Lane Burris - Programming, Debugging<br/>
+[Wellington Rodrigues](https://github.com/wellingtonbrusa) - Programming, Debugging<br/>
+[Quaid Quintela](https://github.com/whispican) - Programming, Debugging<br/>
+[Daniel Molano](https://github.com/danielwero) - Programming, Debugging<br/>
+[Lane Burris](https://github.com/tlburris3) - Programming, Debugging<br/>
 
 ## License
 Feel free to use our source code for your current and future projects, but please give credit where credit is due.
